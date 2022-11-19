@@ -1,4 +1,4 @@
-# Terraform-Information
+# Terraform Information Module
 
 Terraform module to display the current Release, Version and Website details in JSON format from its API.
 
@@ -12,6 +12,7 @@ Terraform API : https://checkpoint-api.hashicorp.com/v1/check/terraform
 
 
 **On browser:**
+
 
 
 ![image](https://user-images.githubusercontent.com/27748402/202867386-dd7d0b6f-39b4-46f4-b8a7-3bb21bd4b1c4.png)
