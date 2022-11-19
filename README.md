@@ -6,6 +6,8 @@ Terraform module to display the current Release, Version and Website details in 
 
 The Terraform API provides a few below informations while we call them on the browser/curl.
 
+Terraform API : https://checkpoint-api.hashicorp.com/v1/check/terraform
+
 
 ![image](https://user-images.githubusercontent.com/27748402/202867386-dd7d0b6f-39b4-46f4-b8a7-3bb21bd4b1c4.png)
 
