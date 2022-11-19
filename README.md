@@ -1,10 +1,10 @@
 # Terraform Information Module
 
-Terraform module to display the current Release, Version and Website details in JSON format from its API.
+This Terraform module to display only Product, current Release, Version and Website details in JSON format from its API.
 
 
 
-The Terraform API provides a few below informations while we call them on the browser/curl.
+The Terraform API provides a below informations while we call them on the browser/curl.
 
 
 Terraform API : https://checkpoint-api.hashicorp.com/v1/check/terraform
@@ -25,7 +25,7 @@ Terraform API : https://checkpoint-api.hashicorp.com/v1/check/terraform
 
 ![image](https://user-images.githubusercontent.com/27748402/202867468-ab7581cb-8f8e-4740-a22c-9704dfe8da23.png)
 
-This module is to display the Product, current Release, Version and Website details in JSON format.
+This module is to display the Product, current Release, Version and Website details only in JSON format as below.
 
 
 
