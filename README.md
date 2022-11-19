@@ -10,19 +10,26 @@ The Terraform API provides a few below informations while we call them on the br
 Terraform API : https://checkpoint-api.hashicorp.com/v1/check/terraform
 
 
+
 **On browser:**
+
 
 ![image](https://user-images.githubusercontent.com/27748402/202867386-dd7d0b6f-39b4-46f4-b8a7-3bb21bd4b1c4.png)
 
 
+
+
 **Using curl;**
+
 
 ![image](https://user-images.githubusercontent.com/27748402/202867468-ab7581cb-8f8e-4740-a22c-9704dfe8da23.png)
 
 This module is to display the Product, current Release, Version and Website details in JSON format.
 
 
-Output:
+
+**Output:**
+
 
 ![image](https://user-images.githubusercontent.com/27748402/202867730-e99488f9-6821-478c-ac48-5461c65bcb10.png)
 
