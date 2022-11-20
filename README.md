@@ -1,6 +1,6 @@
 # Terraform Information Module
 
-This Terraform module to display only Product, current Release, Version and Website details in JSON format from its API.
+This Terraform module is to display only Product, current Release, Version and Website details in JSON format from its API.
 
 
 
