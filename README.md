@@ -42,17 +42,18 @@ This module is to display the Product, current Release, Version and Website deta
 
 1. Clone the repo to your local machine
 
-""
 $ git clone git@github.com:jamesakm/Terraform-Information.git
-""
+
 
 2. Initialize terraform to fetch the provider informations
 
 $ terraform init
 
+
 3. See the expected changes without applying
 
 $ terraform plan
+
 
 4. If the changes are expected, apply.
 
