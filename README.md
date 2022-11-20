@@ -48,14 +48,18 @@ $ git clone git@github.com:jamesakm/Terraform-Information.git
 
 2. Initialize terraform to fetch the provider informations
 
+```hlc
 $ terraform init
-
+```
 
 3. See the expected changes without applying
 
+```hlc
 $ terraform plan
-
+```
 
 4. If the changes are expected, apply.
 
+```hlc
 $ terraform apply
+```
