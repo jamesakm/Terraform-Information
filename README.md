@@ -40,7 +40,7 @@ This module is to display the Product, current Release, Version and Website deta
 **How to use ?**
 
 
-1. Clone the repo to your local machine
+1. Clone the repo to your host using 'git clone'
 
 $ git clone git@github.com:jamesakm/Terraform-Information.git
 
